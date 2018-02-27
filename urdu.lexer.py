@@ -59,7 +59,7 @@ t_سےبڑا     = r'>'
 t_سےچھوٹا   = r'<'
 
 try:
-    filename = 'پھلاپروگرام۔اردو'
+    filename = 'پہلاپروگرام۔اردو'
 
     with open(filename, 'r', encoding='utf') as f:
         source = f.read()
