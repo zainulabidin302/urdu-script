@@ -72,7 +72,8 @@ LexToken(تمام,'تمام',10,89)
 ```
 اگر آپ اس کاوش میں حصہ لینا چاہتے ہیں تو رابطہ کیلیے مجھے ای میل کیجیے : zain@appslab.io
 
-
+# ونڈوز میں اردو لکھنے کیلئے نیچے دیئے گئے لنک کو کلک کریں
+ https://youtu.be/VmlRWJtWdyM
 1. Lexical Anylisis
 2. Regular Expressions
 3. Programming Language
