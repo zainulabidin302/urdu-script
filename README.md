@@ -74,6 +74,16 @@ LexToken(تمام,'تمام',10,89)
 
 # ونڈوز میں اردو لکھنے کیلئے نیچے دیئے گئے لنک کو کلک کریں
  https://youtu.be/VmlRWJtWdyM
+ 
+# اس کام میں آپ کیا کرسکتے ہیں؟
+ 
+1۔ آپ اردو پارسر لکگ سکتے ہیں
+2۔ آپ کوڈ جنریٹر لکھ سکتے ہیں
+3آپ آپٹمائیزر لکھ سکتے ہیں
+4۔مشاورت کیلیے آپ سلیک چینل میں شامل ہو سکتے ہیں
+
+# SLACK (سلیک)
+https://urdugroup.slack.com
 1. Lexical Anylisis
 2. Regular Expressions
 3. Programming Language
